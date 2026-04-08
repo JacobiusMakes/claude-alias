@@ -1,0 +1,11 @@
+{
+  "name": "claude-alias",
+  "version": "1.0.0",
+  "description": "Project-specific shell environment for Claude Code — auto-inject env vars into Bash tool",
+  "type": "module",
+  "bin": { "claude-alias": "./bin/cli.js" },
+  "keywords": ["claude", "claude-code", "environment", "env", "alias", "shell", "hooks"],
+  "author": "JacobiusMakes",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/JacobiusMakes/claude-alias" }
+}
